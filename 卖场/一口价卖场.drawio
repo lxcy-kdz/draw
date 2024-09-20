@@ -87,6 +87,9 @@
         <mxCell id="WYDLCy8g_keAyupNG0n2-20" value="天路货源映射采货侠sourceType" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WYDLCy8g_keAyupNG0n2-22" target="WYDLCy8g_keAyupNG0n2-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WYDLCy8g_keAyupNG0n2-22" value="映射发布报告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
         </mxCell>
@@ -95,6 +98,9 @@
         </mxCell>
         <mxCell id="WYDLCy8g_keAyupNG0n2-37" value="apollo配置&lt;div&gt;空间:ypofflinemart&lt;/div&gt;&lt;div&gt;key:sandbox_push_product_white_uids&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;fillColor=#FFE6CC;base=20;position2=0.45;size=30;position=0.45;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-38" value="是否为线下&lt;div&gt;散货货源&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
