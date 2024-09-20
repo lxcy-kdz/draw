@@ -12,14 +12,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WYDLCy8g_keAyupNG0n2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WYDLCy8g_keAyupNG0n2-1" target="WYDLCy8g_keAyupNG0n2-2">
+        <mxCell id="WYDLCy8g_keAyupNG0n2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WYDLCy8g_keAyupNG0n2-1" target="WYDLCy8g_keAyupNG0n2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WYDLCy8g_keAyupNG0n2-1" value="天路货源上架&lt;div&gt;一口价卖场&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WYDLCy8g_keAyupNG0n2-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="WYDLCy8g_keAyupNG0n2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WYDLCy8g_keAyupNG0n2-6" target="WYDLCy8g_keAyupNG0n2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-6" value="是否为&lt;div&gt;沙箱环境&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-8" value="是否为&lt;div&gt;沙箱上架&lt;/div&gt;&lt;div&gt;白名单&lt;div&gt;卖家&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
