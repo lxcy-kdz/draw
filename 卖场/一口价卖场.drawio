@@ -15,7 +15,7 @@
         <mxCell id="WYDLCy8g_keAyupNG0n2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WYDLCy8g_keAyupNG0n2-1" target="WYDLCy8g_keAyupNG0n2-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WYDLCy8g_keAyupNG0n2-1" value="天路货源上架一口价卖场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WYDLCy8g_keAyupNG0n2-1" value="天路货源上架&lt;div&gt;一口价卖场&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WYDLCy8g_keAyupNG0n2-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
