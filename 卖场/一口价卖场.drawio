@@ -90,6 +90,15 @@
         <mxCell id="WYDLCy8g_keAyupNG0n2-22" value="映射发布报告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-31" value="apollo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="510" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-32" value="空间:ypofflinemart" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WYDLCy8g_keAyupNG0n2-31">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-33" value="key:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WYDLCy8g_keAyupNG0n2-31">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
