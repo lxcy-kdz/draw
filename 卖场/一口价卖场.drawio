@@ -21,6 +21,9 @@
         <mxCell id="WYDLCy8g_keAyupNG0n2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WYDLCy8g_keAyupNG0n2-6" target="WYDLCy8g_keAyupNG0n2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WYDLCy8g_keAyupNG0n2-6" target="WYDLCy8g_keAyupNG0n2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WYDLCy8g_keAyupNG0n2-6" value="是否为&lt;div&gt;沙箱环境&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="80" height="80" as="geometry" />
         </mxCell>
@@ -32,6 +35,9 @@
         </mxCell>
         <mxCell id="WYDLCy8g_keAyupNG0n2-10" value="上架失败:&lt;div&gt;返回异常信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-16" value="校验库存" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
