@@ -93,6 +93,9 @@
         <mxCell id="WYDLCy8g_keAyupNG0n2-36" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Apollo配置&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;空间:ypofflinemart&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;key:skyway_product_source_2_yikoujia_source_type_v2&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="-170" y="480" width="340" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WYDLCy8g_keAyupNG0n2-37" value="apollo配置&lt;div&gt;空间:ypofflinemart&lt;/div&gt;&lt;div&gt;key:sandbox_push_product_white_uids&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;fillColor=#FFE6CC;base=20;position2=0.45;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="220" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
