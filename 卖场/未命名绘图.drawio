@@ -38,7 +38,7 @@
         <mxCell id="splcTxUmeya46Ga6lUND-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-7" target="splcTxUmeya46Ga6lUND-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-7" value="获取增值服务业务线品类配置信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="splcTxUmeya46Ga6lUND-7" value="获取增值服务&lt;div&gt;业务线品类配置信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-9" target="splcTxUmeya46Ga6lUND-5">
