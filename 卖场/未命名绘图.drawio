@@ -119,13 +119,8 @@
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-32" target="splcTxUmeya46Ga6lUND-37">
+        <mxCell id="splcTxUmeya46Ga6lUND-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-32" target="splcTxUmeya46Ga6lUND-51">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-38">
-          <mxGeometry x="-0.2444" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-32" value="是否匹配到增值服务" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1460" width="80" height="80" as="geometry" />
@@ -133,8 +128,48 @@
         <mxCell id="splcTxUmeya46Ga6lUND-35" value="无增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-37" value="返回增值服务信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1630" width="120" height="60" as="geometry" />
+        <mxCell id="splcTxUmeya46Ga6lUND-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-51" target="splcTxUmeya46Ga6lUND-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-54">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-51" target="splcTxUmeya46Ga6lUND-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-58" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-56">
+          <mxGeometry x="-0.1556" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-51" value="判断增值服务是否限免" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-53" value="限免" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-55" target="splcTxUmeya46Ga6lUND-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-55" value="匹配增值服务费用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-61" target="splcTxUmeya46Ga6lUND-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-61" target="splcTxUmeya46Ga6lUND-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-61" value="判断商品是否已支持当前增值服务" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-63" value="过滤掉当前增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-65" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
