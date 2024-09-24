@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-25" value="获取下一优先级渠道类型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1170" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-28" target="splcTxUmeya46Ga6lUND-32">
           <mxGeometry relative="1" as="geometry" />
