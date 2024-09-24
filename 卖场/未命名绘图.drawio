@@ -1,9 +1,70 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.15">
   <diagram name="第 1 页" id="3AgY2aNRfctnJvS1CVNh">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="splcTxUmeya46Ga6lUND-1" value="增值服务匹配逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-2" target="splcTxUmeya46Ga6lUND-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-2" value="请求头获取t值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-3" target="splcTxUmeya46Ga6lUND-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-11" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-6">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-3" target="splcTxUmeya46Ga6lUND-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-8">
+          <mxGeometry x="-0.1556" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-3" value="是否为小程序&lt;div&gt;t值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-5" value="无增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-7" target="splcTxUmeya46Ga6lUND-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-7" value="获取增值服务业务线品类配置信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-9" target="splcTxUmeya46Ga6lUND-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-17" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-14">
+          <mxGeometry x="-0.7707" y="4" relative="1" as="geometry">
+            <mxPoint x="-3" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-9" target="splcTxUmeya46Ga6lUND-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-16">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-9" value="判断是否允许使用增值服务" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-15" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
