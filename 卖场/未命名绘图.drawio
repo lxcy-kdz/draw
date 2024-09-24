@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="splcTxUmeya46Ga6lUND-1" value="增值服务匹配逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-2" target="splcTxUmeya46Ga6lUND-3">
           <mxGeometry relative="1" as="geometry" />
@@ -65,13 +65,13 @@
         <mxCell id="splcTxUmeya46Ga6lUND-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-15" target="splcTxUmeya46Ga6lUND-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-15" value="获取渠道类型优先级" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="splcTxUmeya46Ga6lUND-15" value="获取配置&lt;div&gt;渠道类型优先级&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-19" target="splcTxUmeya46Ga6lUND-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-19" value="按顺序获取第高优先级渠道类型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="splcTxUmeya46Ga6lUND-19" value="按优先级获取&lt;div&gt;渠道类型&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-21" target="splcTxUmeya46Ga6lUND-23">
