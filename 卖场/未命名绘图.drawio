@@ -159,8 +159,18 @@
         <mxCell id="splcTxUmeya46Ga6lUND-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-61" target="splcTxUmeya46Ga6lUND-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-67" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-64">
+          <mxGeometry x="-0.1333" y="-4" relative="1" as="geometry">
+            <mxPoint x="-6" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-61" target="splcTxUmeya46Ga6lUND-65">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-68" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-66">
+          <mxGeometry x="-0.0444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-61" value="判断商品是否已支持当前增值服务" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1900" width="80" height="80" as="geometry" />
@@ -168,7 +178,7 @@
         <mxCell id="splcTxUmeya46Ga6lUND-63" value="过滤掉当前增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-65" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="splcTxUmeya46Ga6lUND-65" value="返回服务信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
