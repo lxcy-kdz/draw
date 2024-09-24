@@ -48,7 +48,7 @@
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-17" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-14">
           <mxGeometry x="-0.7707" y="4" relative="1" as="geometry">
-            <mxPoint x="-3" y="4" as="offset" />
+            <mxPoint x="-17" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-9" target="splcTxUmeya46Ga6lUND-15">
@@ -62,8 +62,79 @@
         <mxCell id="splcTxUmeya46Ga6lUND-9" value="判断是否允许使用增值服务" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-15" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="splcTxUmeya46Ga6lUND-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-15" target="splcTxUmeya46Ga6lUND-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-15" value="获取渠道类型优先级" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-19" target="splcTxUmeya46Ga6lUND-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-19" value="按顺序获取第高优先级渠道类型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-21" target="splcTxUmeya46Ga6lUND-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-21" value="获取用户该渠道类型下当前的来源渠道" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-23" target="splcTxUmeya46Ga6lUND-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-26">
+          <mxGeometry x="-0.2333" y="-2" relative="1" as="geometry">
+            <mxPoint x="-3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-23" target="splcTxUmeya46Ga6lUND-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-40" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-29">
+          <mxGeometry x="-0.2889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-23" value="是否获取到" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-25" target="splcTxUmeya46Ga6lUND-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-25" value="获取下一优先级渠道类型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-28" target="splcTxUmeya46Ga6lUND-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-28" value="匹配渠道下配置的增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-32" target="splcTxUmeya46Ga6lUND-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-41" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-36">
+          <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-32" target="splcTxUmeya46Ga6lUND-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-38">
+          <mxGeometry x="-0.2444" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-32" value="是否匹配到增值服务" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-35" value="无增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-37" value="返回增值服务信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
