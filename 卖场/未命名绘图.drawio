@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="splcTxUmeya46Ga6lUND-111" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="790" width="820" height="480" as="geometry" />
+        </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="1139" width="160" height="120" as="geometry" />
         </mxCell>
@@ -318,6 +321,9 @@
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-110" value="t值134" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-430" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-112" value="渠道维护流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="800" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
