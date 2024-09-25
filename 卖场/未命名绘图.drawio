@@ -11,7 +11,7 @@
           <mxGeometry x="-610" y="1139" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-1" value="增值服务匹配逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-2" target="splcTxUmeya46Ga6lUND-3">
           <mxGeometry relative="1" as="geometry" />
