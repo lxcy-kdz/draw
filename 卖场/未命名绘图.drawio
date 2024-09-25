@@ -426,10 +426,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-181" value="订单列表及卡片展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="2260" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-182" value="取订单上的增值服务项信息及费用信息展示" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2260" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
