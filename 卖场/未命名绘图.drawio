@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.15">
   <diagram name="第 1 页" id="3AgY2aNRfctnJvS1CVNh">
-    <mxGraphModel dx="2222" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -421,6 +421,15 @@
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-180" value="用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-181" target="splcTxUmeya46Ga6lUND-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-181" value="订单列表及卡片展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-182" value="取订单上的增值服务项信息及费用信息展示" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
