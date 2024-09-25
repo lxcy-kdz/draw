@@ -38,7 +38,7 @@
         <mxCell id="splcTxUmeya46Ga6lUND-3" value="是否为134采货侠小程序&lt;div&gt;t值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-5" value="无增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="splcTxUmeya46Ga6lUND-5" value="无增值服务(走原逻辑)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-7" target="splcTxUmeya46Ga6lUND-9">
