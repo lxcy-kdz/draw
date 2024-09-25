@@ -240,6 +240,59 @@
         <mxCell id="splcTxUmeya46Ga6lUND-87" value="saveOrUpdateUserChannal?channel=xiaomage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-350" y="860" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-89" target="splcTxUmeya46Ga6lUND-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-102" value="登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-90">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint x="4" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-89" value="小程序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="910" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-91" target="splcTxUmeya46Ga6lUND-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-470" y="890" />
+              <mxPoint x="-470" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-91" value="渠道A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="870" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-92" target="splcTxUmeya46Ga6lUND-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-92" value="渠道B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="910" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-93" target="splcTxUmeya46Ga6lUND-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-470" y="970" />
+              <mxPoint x="-470" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-93" value="渠道c" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="950" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-97" target="splcTxUmeya46Ga6lUND-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-101" value="手动插入表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="splcTxUmeya46Ga6lUND-100">
+          <mxGeometry x="-0.11" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-97" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1040" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-99" value="运营" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1010" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
