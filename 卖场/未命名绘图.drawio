@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="splcTxUmeya46Ga6lUND-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="1140" width="160" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-1" value="增值服务匹配逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="60" height="30" as="geometry" />
         </mxCell>
@@ -223,7 +226,7 @@
           <mxGeometry x="-290" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-80" value="侠客汇渠道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-81" target="splcTxUmeya46Ga6lUND-21">
           <mxGeometry relative="1" as="geometry" />
@@ -292,6 +295,21 @@
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-99" value="运营" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-570" y="1010" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-103" target="splcTxUmeya46Ga6lUND-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-103" value="加入会员mq消息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-104" target="splcTxUmeya46Ga6lUND-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-104" value="移出会员mq消息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-108" value="侠&lt;div&gt;客&lt;/div&gt;&lt;div&gt;汇&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1184" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
