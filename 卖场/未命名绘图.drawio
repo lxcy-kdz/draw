@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.15">
   <diagram name="第 1 页" id="3AgY2aNRfctnJvS1CVNh">
-    <mxGraphModel dx="4175" dy="2661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,6 +352,72 @@
           <mxGeometry x="0.1981" y="1" relative="1" as="geometry">
             <mxPoint x="46" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-149" value="创建订单流程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="70" width="960" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-157" value="用户" style="swimlane;startSize=20;html=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-149">
+          <mxGeometry y="20" width="210" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-159" value="用户选择增值服务项" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-157">
+          <mxGeometry x="45" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-150" value="采货侠卖场服务" style="swimlane;startSize=20;html=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-149">
+          <mxGeometry x="210" y="20" width="210" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-144" value="创建订单流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-150">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-145" value="调用订单中台&lt;div&gt;创建订单接口&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-150">
+          <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="splcTxUmeya46Ga6lUND-150" source="splcTxUmeya46Ga6lUND-144" target="splcTxUmeya46Ga6lUND-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-176" value="创建成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-150">
+          <mxGeometry x="45" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-151" value="订单中台服务" style="swimlane;startSize=20;html=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-149">
+          <mxGeometry x="420" y="20" width="280" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="splcTxUmeya46Ga6lUND-151" source="splcTxUmeya46Ga6lUND-162" target="splcTxUmeya46Ga6lUND-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-162" value="创建订单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-151">
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-164" value="获取增值服务费" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-151">
+          <mxGeometry x="70" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-173" value="创建成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-151">
+          <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="splcTxUmeya46Ga6lUND-149" source="splcTxUmeya46Ga6lUND-159" target="splcTxUmeya46Ga6lUND-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="splcTxUmeya46Ga6lUND-149" source="splcTxUmeya46Ga6lUND-145" target="splcTxUmeya46Ga6lUND-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="splcTxUmeya46Ga6lUND-149" source="splcTxUmeya46Ga6lUND-164" target="splcTxUmeya46Ga6lUND-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-152" value="采货侠抽佣服务" style="swimlane;startSize=20;html=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-149">
+          <mxGeometry x="700" y="20" width="260" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-168" value="匹配计算&lt;div&gt;增值服务费用&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-152">
+          <mxGeometry x="90" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="splcTxUmeya46Ga6lUND-149" source="splcTxUmeya46Ga6lUND-168" target="splcTxUmeya46Ga6lUND-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="splcTxUmeya46Ga6lUND-149" source="splcTxUmeya46Ga6lUND-173" target="splcTxUmeya46Ga6lUND-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="splcTxUmeya46Ga6lUND-178" target="splcTxUmeya46Ga6lUND-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="splcTxUmeya46Ga6lUND-178" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="130" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
