@@ -368,7 +368,7 @@
         <mxCell id="splcTxUmeya46Ga6lUND-144" value="创建订单流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-150">
           <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-145" value="调用订单中台&lt;div&gt;创建订单接口&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-150">
+        <mxCell id="splcTxUmeya46Ga6lUND-145" value="调用订单中台&lt;div&gt;创建订单接口&lt;br&gt;（参数传入增值服务项id）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-150">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="splcTxUmeya46Ga6lUND-150" source="splcTxUmeya46Ga6lUND-144" target="splcTxUmeya46Ga6lUND-145">
@@ -386,10 +386,10 @@
         <mxCell id="splcTxUmeya46Ga6lUND-162" value="创建订单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-151">
           <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-164" value="获取增值服务费" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-151">
+        <mxCell id="splcTxUmeya46Ga6lUND-164" value="获取增值服务费&lt;div&gt;(透传增值服务费id)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-151">
           <mxGeometry x="70" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-173" value="创建成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-151">
+        <mxCell id="splcTxUmeya46Ga6lUND-173" value="创建成功&lt;div&gt;(将增值服务费项记录到订单上)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="splcTxUmeya46Ga6lUND-151">
           <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="splcTxUmeya46Ga6lUND-149" source="splcTxUmeya46Ga6lUND-159" target="splcTxUmeya46Ga6lUND-144">
