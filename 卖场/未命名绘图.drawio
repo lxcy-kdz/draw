@@ -11,7 +11,7 @@
           <mxGeometry x="-750" y="800" width="860" height="480" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="1139" width="160" height="120" as="geometry" />
+          <mxGeometry x="-730" y="1139" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-1" value="增值服务匹配逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="-30" width="120" height="30" as="geometry" />
@@ -261,7 +261,7 @@
           <mxGeometry x="-670" y="1210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-108" value="侠&lt;div&gt;客&lt;/div&gt;&lt;div&gt;汇&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="1184" width="60" height="30" as="geometry" />
+          <mxGeometry x="-740" y="1184" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-110" value="t值134" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-530" y="880" width="60" height="30" as="geometry" />
@@ -377,6 +377,12 @@
         </mxCell>
         <mxCell id="8Oh3HsnmJOhp6p4hlj3B-4" value="过滤用户可选&lt;div&gt;增值服务权益&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Oh3HsnmJOhp6p4hlj3B-8" value="外&lt;div&gt;部&lt;/div&gt;&lt;div&gt;渠&lt;/div&gt;&lt;div&gt;道&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="915" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Oh3HsnmJOhp6p4hlj3B-9" value="人&lt;div&gt;工&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;护&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="1045" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
