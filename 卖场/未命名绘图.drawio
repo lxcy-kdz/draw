@@ -384,6 +384,9 @@
         <mxCell id="8Oh3HsnmJOhp6p4hlj3B-9" value="人&lt;div&gt;工&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;护&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1045" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8Oh3HsnmJOhp6p4hlj3B-11" value="每个用户每个渠道类型只有一条数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
