@@ -8,7 +8,7 @@
           <mxGeometry x="-800" y="-40" width="1560" height="2510" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-111" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-750" y="800" width="860" height="470" as="geometry" />
+          <mxGeometry x="-750" y="800" width="860" height="480" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-710" y="1139" width="160" height="120" as="geometry" />
@@ -160,27 +160,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-78" value="人工维护用户渠道" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-390" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="-360" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-79" value="外部渠道" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-390" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="-360" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-80" value="侠客汇渠道" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-390" y="1169" width="120" height="60" as="geometry" />
+          <mxGeometry x="-360" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-81" value="用户来源渠道表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-70" y="1030" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="splcTxUmeya46Ga6lUND-79" target="splcTxUmeya46Ga6lUND-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="930" />
+              <mxPoint x="-120" y="1060" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-109" value="t值判断插入更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="splcTxUmeya46Ga6lUND-82" vertex="1" connectable="0">
           <mxGeometry x="-0.7333" relative="1" as="geometry">
-            <mxPoint x="6" as="offset" />
+            <mxPoint x="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="splcTxUmeya46Ga6lUND-80" target="splcTxUmeya46Ga6lUND-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="1200" />
+              <mxPoint x="-120" y="1060" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="splcTxUmeya46Ga6lUND-87" value="saveOrUpdateUserChannal?channel=xiaomage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-450" y="860" width="280" height="30" as="geometry" />
@@ -188,7 +198,7 @@
         <mxCell id="splcTxUmeya46Ga6lUND-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="splcTxUmeya46Ga6lUND-89" target="splcTxUmeya46Ga6lUND-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="splcTxUmeya46Ga6lUND-102" value="登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="splcTxUmeya46Ga6lUND-90" vertex="1" connectable="0">
+        <mxCell id="splcTxUmeya46Ga6lUND-102" value="登录or渠道更换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="splcTxUmeya46Ga6lUND-90" vertex="1" connectable="0">
           <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
             <mxPoint x="4" y="2" as="offset" />
           </mxGeometry>
