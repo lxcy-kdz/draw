@@ -859,7 +859,15 @@
         </mxCell>
         <mxCell id="TvP-kwef60r1rB5MK68P-38" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-31">
           <mxGeometry x="-0.0571" relative="1" as="geometry">
-            <mxPoint x="-3" as="offset" />
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-28" target="TvP-kwef60r1rB5MK68P-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-40">
+          <mxGeometry x="-0.1556" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TvP-kwef60r1rB5MK68P-28" value="是否获取到用户来源渠道&lt;div&gt;信息&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -895,6 +903,66 @@
         </mxCell>
         <mxCell id="TvP-kwef60r1rB5MK68P-32" value="是否获取到" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="1160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-39" target="TvP-kwef60r1rB5MK68P-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-39" value="根据用户当前的渠道类型和来源渠道匹配限免的增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-42" target="TvP-kwef60r1rB5MK68P-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-46" value="未匹配到" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-45">
+          <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-42" target="TvP-kwef60r1rB5MK68P-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-49" value="匹配到" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-48">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-42" value="是否匹配到" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-44" target="TvP-kwef60r1rB5MK68P-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-44" value="获取商品每个增值服务的应收费用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-47" target="TvP-kwef60r1rB5MK68P-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-47" value="获取商品增值服务中限免的增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-56" target="TvP-kwef60r1rB5MK68P-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-56" value="过滤掉失效的增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-59" target="TvP-kwef60r1rB5MK68P-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-59" value="未失效的增值服务的应收费用为0" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-61" target="TvP-kwef60r1rB5MK68P-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-61" value="获取未配置限免增值服务的应收费用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-63" value="返回增值服务及应收费用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
