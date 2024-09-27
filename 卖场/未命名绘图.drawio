@@ -734,7 +734,7 @@
         <mxCell id="YSVPc-F9WzVr4ikSSGe4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSVPc-F9WzVr4ikSSGe4-23" target="YSVPc-F9WzVr4ikSSGe4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSVPc-F9WzVr4ikSSGe4-22" value="手动插入表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YSVPc-F9WzVr4ikSSGe4-21">
+        <mxCell id="YSVPc-F9WzVr4ikSSGe4-22" value="scf接口维护" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YSVPc-F9WzVr4ikSSGe4-21">
           <mxGeometry x="-0.11" y="1" relative="1" as="geometry">
             <mxPoint x="21" y="1" as="offset" />
           </mxGeometry>
