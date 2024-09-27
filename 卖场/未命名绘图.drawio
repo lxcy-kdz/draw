@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="9">
   <diagram name="第 1 页" id="3AgY2aNRfctnJvS1CVNh">
     <mxGraphModel dx="2501" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -774,6 +774,127 @@
         </mxCell>
         <mxCell id="YSVPc-F9WzVr4ikSSGe4-35" value="每个用户每个渠道类型只有一条数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MlRu8ZUrhLjJbh5ijN8S" name="第 9 页">
+    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TvP-kwef60r1rB5MK68P-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-2" target="TvP-kwef60r1rB5MK68P-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-2" value="用户权益服务展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-5" target="TvP-kwef60r1rB5MK68P-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-5" value="获取支持增值服务apollo配置信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-7" target="TvP-kwef60r1rB5MK68P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-10">
+          <mxGeometry x="-0.16" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-7" target="TvP-kwef60r1rB5MK68P-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-17" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-12">
+          <mxGeometry x="-0.0889" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-7" value="判断用户是否&lt;div&gt;在黑名单中&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-9" value="原逻辑展示商品服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-11" target="TvP-kwef60r1rB5MK68P-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-11" value="按照业务线和品类匹配商品支持使用的&lt;div&gt;增值服务&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-13" target="TvP-kwef60r1rB5MK68P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-15">
+          <mxGeometry x="-0.8419" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-13" target="TvP-kwef60r1rB5MK68P-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-20">
+          <mxGeometry x="-0.1556" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-13" value="是否匹配到&lt;div&gt;增值服务&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-19" target="TvP-kwef60r1rB5MK68P-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-19" value="获取渠道类型&lt;div&gt;匹配优先级&lt;/div&gt;&lt;div&gt;按优先级进行匹配&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-24" target="TvP-kwef60r1rB5MK68P-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-24" value="获取当前优先级渠道类型下用户的来源渠道信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-28" target="TvP-kwef60r1rB5MK68P-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-38" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-31">
+          <mxGeometry x="-0.0571" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-28" value="是否获取到用户来源渠道&lt;div&gt;信息&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-30" target="TvP-kwef60r1rB5MK68P-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-30" value="获取下一优先级渠道类型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-32" target="TvP-kwef60r1rB5MK68P-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1200" />
+              <mxPoint x="760" y="760" />
+              <mxPoint x="470" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-37" value="未获取到" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-34">
+          <mxGeometry x="-0.9485" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-32" target="TvP-kwef60r1rB5MK68P-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-36" value="获取到" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-35">
+          <mxGeometry x="-0.75" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TvP-kwef60r1rB5MK68P-32" value="是否获取到" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1160" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
