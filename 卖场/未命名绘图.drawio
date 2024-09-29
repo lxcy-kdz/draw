@@ -1199,7 +1199,7 @@
         <mxCell id="9JzR558Bo6mB6X8OMrT3-41" value="获取商品&lt;div&gt;增值服务&lt;div&gt;应收费用&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9JzR558Bo6mB6X8OMrT3-42" value="返回商品可选&lt;div&gt;增值服务&lt;span style=&quot;background-color: initial;&quot;&gt;及&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;应收费用以及商品非增值服务售后服务&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-42" value="返回商品&lt;span style=&quot;background-color: initial;&quot;&gt;增值服务&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;及&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;应收费用以及商品非增值售后服务&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="812.5" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9JzR558Bo6mB6X8OMrT3-44" value="展示其他商品服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
