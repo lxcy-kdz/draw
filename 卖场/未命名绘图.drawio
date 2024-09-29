@@ -1179,7 +1179,7 @@
           <mxGeometry x="812.5" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9JzR558Bo6mB6X8OMrT3-48" value="商品详情页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="737.5" y="415" width="75" height="30" as="geometry" />
+          <mxGeometry x="737.5" y="405" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9JzR558Bo6mB6X8OMrT3-50" value="填单页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="745" y="540" width="60" height="30" as="geometry" />
