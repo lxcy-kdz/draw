@@ -1056,10 +1056,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3w_FFEASd3LLqAKlOh1o" name="第 11 页">
-    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="515" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="390" width="370" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="9JzR558Bo6mB6X8OMrT3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JzR558Bo6mB6X8OMrT3-1" target="9JzR558Bo6mB6X8OMrT3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1144,11 +1150,37 @@
         <mxCell id="9JzR558Bo6mB6X8OMrT3-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JzR558Bo6mB6X8OMrT3-35" target="9JzR558Bo6mB6X8OMrT3-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9JzR558Bo6mB6X8OMrT3-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9JzR558Bo6mB6X8OMrT3-35" value="判断用户是否在限免黑名单内" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="490" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JzR558Bo6mB6X8OMrT3-38" target="9JzR558Bo6mB6X8OMrT3-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9JzR558Bo6mB6X8OMrT3-38" value="不展示限免增值服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JzR558Bo6mB6X8OMrT3-41" target="9JzR558Bo6mB6X8OMrT3-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-41" value="获取增值服务&lt;div&gt;应收费用&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-42" value="返回商品可选&lt;div&gt;增值服务及应收费用&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-44" value="展示其他商品服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-48" value="商品详情页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="390" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JzR558Bo6mB6X8OMrT3-50" value="填单页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="515" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
