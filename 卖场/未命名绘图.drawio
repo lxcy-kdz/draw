@@ -964,14 +964,19 @@
         </mxCell>
         <mxCell id="TvP-kwef60r1rB5MK68P-80" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TvP-kwef60r1rB5MK68P-77">
           <mxGeometry x="-0.6222" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="-1" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TvP-kwef60r1rB5MK68P-72" value="是否匹配&lt;div&gt;到增值服务&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TvP-kwef60r1rB5MK68P-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TvP-kwef60r1rB5MK68P-74" target="TvP-kwef60r1rB5MK68P-76">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="880" />
+              <mxPoint x="-590" y="880" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TvP-kwef60r1rB5MK68P-74" value="将增值服务以标签的形式打到商品上" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="750" width="120" height="60" as="geometry" />
