@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="10">
   <diagram name="第 1 页" id="3AgY2aNRfctnJvS1CVNh">
     <mxGraphModel dx="2501" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -779,7 +779,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MlRu8ZUrhLjJbh5ijN8S" name="第 9 页">
-    <mxGraphModel dx="3328" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -985,6 +985,68 @@
           <mxGeometry x="-650" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TvP-kwef60r1rB5MK68P-81" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;namespace:ypofflinemart&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;key:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;accretion_server_range&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFE6CC;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="525" width="250" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NuC5t3NziMDNZiHv4d9w" name="第 10 页">
+    <mxGraphModel dx="3328" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MrV8LC63HC1MN_--OaXL-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrV8LC63HC1MN_--OaXL-2" target="MrV8LC63HC1MN_--OaXL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-2" value="一口价商品上架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrV8LC63HC1MN_--OaXL-4" target="MrV8LC63HC1MN_--OaXL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-4" value="获取支持增值服务&lt;div&gt;配置信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrV8LC63HC1MN_--OaXL-6" target="MrV8LC63HC1MN_--OaXL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-6" value="根据&lt;div&gt;业务线和品类匹配&lt;/div&gt;&lt;div&gt;商品可以支持的增值服务&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrV8LC63HC1MN_--OaXL-11" target="MrV8LC63HC1MN_--OaXL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MrV8LC63HC1MN_--OaXL-7">
+          <mxGeometry x="-0.1333" y="2" relative="1" as="geometry">
+            <mxPoint x="-6" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrV8LC63HC1MN_--OaXL-11" target="MrV8LC63HC1MN_--OaXL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-10" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MrV8LC63HC1MN_--OaXL-9">
+          <mxGeometry x="-0.6222" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-11" value="是否匹配&lt;div&gt;到增值服务&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MrV8LC63HC1MN_--OaXL-13" target="MrV8LC63HC1MN_--OaXL-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="880" />
+              <mxPoint x="-590" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-13" value="将增值服务以标签的形式打到商品上" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-14" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrV8LC63HC1MN_--OaXL-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;namespace:ypofflinemart&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;key:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;accretion_server_range&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFE6CC;align=center;" vertex="1" parent="1">
           <mxGeometry x="-900" y="525" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
