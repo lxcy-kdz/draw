@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yH5DKiPyY2_BpjZ6cQ-a-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="490" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="yH5DKiPyY2_BpjZ6cQ-a-1" value="lock()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="60" height="30" as="geometry" />
         </mxCell>
@@ -15,6 +18,9 @@
         </mxCell>
         <mxCell id="yH5DKiPyY2_BpjZ6cQ-a-4" value="tryLock(long timeout, TimeUnit unit)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5DKiPyY2_BpjZ6cQ-a-6" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;加锁&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
