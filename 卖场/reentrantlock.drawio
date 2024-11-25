@@ -411,18 +411,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4DR0HtugcbYTk_NvB-ZM" name="第 3 页">
-    <mxGraphModel dx="4872" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3876" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dpi2auMz1vRI4c2n94Ou-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1800" y="870" width="920" height="630" as="geometry" />
+        </mxCell>
         <mxCell id="y8HIkqFwBRahyGlNS83h-14" value="（1）创建空虚拟节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1764.75" y="891" width="123.75" height="30" as="geometry" />
+          <mxGeometry x="-1768.75" y="911" width="123.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y8HIkqFwBRahyGlNS83h-15" value="（4）将当前节点的前驱指针指向原尾节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1165" y="890" width="234" height="30" as="geometry" />
+          <mxGeometry x="-1167" y="912" width="234" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-ChbEs-dL9UROn7-PtJ-13" value="（6）将原尾节点的后继指针指向当前节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1287" y="1199" width="299" height="30" as="geometry" />
+          <mxGeometry x="-1287" y="1217" width="299" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvRDmBfoexLsvlzog80w-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="-1029" y="950" width="120" height="130" as="geometry" />
@@ -530,7 +533,7 @@
           <mxGeometry x="-1733" y="951" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvRDmBfoexLsvlzog80w-65" value="（2）设置为头节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1571.75" y="891" width="113.75" height="30" as="geometry" />
+          <mxGeometry x="-1571.75" y="910" width="113.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvRDmBfoexLsvlzog80w-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="951" width="120" height="130" as="geometry" />
@@ -551,7 +554,7 @@
           <mxGeometry x="-1600" y="1150" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fvRDmBfoexLsvlzog80w-78" value="（3）设置为尾节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1379.75" y="891" width="113.75" height="30" as="geometry" />
+          <mxGeometry x="-1379.75" y="910" width="113.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvRDmBfoexLsvlzog80w-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="-1380" y="951" width="120" height="130" as="geometry" />
@@ -563,7 +566,7 @@
           <mxGeometry x="-1340" y="1051" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fvRDmBfoexLsvlzog80w-82" value="虚拟节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1350" y="951" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1350" y="952" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvRDmBfoexLsvlzog80w-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fvRDmBfoexLsvlzog80w-84" target="fvRDmBfoexLsvlzog80w-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -578,7 +581,7 @@
           <mxGeometry x="-1270" y="1149" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fvRDmBfoexLsvlzog80w-90" value="（5）将当前节点设置为尾节点(cas)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1650" y="1199" width="234" height="30" as="geometry" />
+          <mxGeometry x="-1650" y="1215" width="234" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvRDmBfoexLsvlzog80w-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="-1511" y="1258" width="120" height="130" as="geometry" />
