@@ -632,7 +632,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qHy2RTG6XQzDTc4qVcXY" name="第 4 页">
-    <mxGraphModel dx="5540" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11678" dy="3730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -641,9 +641,6 @@
         </mxCell>
         <mxCell id="TZoKU2IeSy2X9HPld2x_-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="-2571" y="1350" width="120" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="vG1M0ZD_m31pLSN0Y-Rk-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZoKU2IeSy2X9HPld2x_-2" value="（1）创建新节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2739" y="902" width="106.75" height="30" as="geometry" />
