@@ -896,7 +896,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2jMuEPWPQPdDwMOy5EwV-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-10" width="770" height="532" as="geometry" />
+          <mxGeometry x="50" y="-10" width="770" height="520" as="geometry" />
         </mxCell>
         <mxCell id="2jMuEPWPQPdDwMOy5EwV-3" value="服务" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="120" height="90" as="geometry" />
@@ -975,23 +975,29 @@
         <mxCell id="2jMuEPWPQPdDwMOy5EwV-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2jMuEPWPQPdDwMOy5EwV-50" target="2jMuEPWPQPdDwMOy5EwV-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2jMuEPWPQPdDwMOy5EwV-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2jMuEPWPQPdDwMOy5EwV-50" target="2jMuEPWPQPdDwMOy5EwV-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2jMuEPWPQPdDwMOy5EwV-50" value="告警管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="560" y="322.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2jMuEPWPQPdDwMOy5EwV-51" value="告警推送" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="700" y="226" width="90" height="40" as="geometry" />
+          <mxGeometry x="700" y="175" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2jMuEPWPQPdDwMOy5EwV-52" value="负责人机制" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="700" y="350" width="90" height="40" as="geometry" />
+          <mxGeometry x="700" y="345" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2jMuEPWPQPdDwMOy5EwV-58" value="认领/指派机制" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="700" y="410" width="90" height="40" as="geometry" />
+          <mxGeometry x="700" y="399" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2jMuEPWPQPdDwMOy5EwV-62" value="问题排查&lt;br&gt;便捷工具箱" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="700" y="470" width="90" height="40" as="geometry" />
+          <mxGeometry x="700" y="454" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2jMuEPWPQPdDwMOy5EwV-66" value="告警配置" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="700" y="287.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="700" y="290.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2jMuEPWPQPdDwMOy5EwV-70" value="告警升级" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="700" y="234" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
